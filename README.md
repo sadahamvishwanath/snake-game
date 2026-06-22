@@ -1,6 +1,7 @@
 # 🐍 Snake Game
 
 ![Snake Game Screenshot](images/screenshot.png)
+
 ![Snake Game Over Screenshot](images/game_over.png)
 
 A classic Snake Game built with Python and the Arcade library.
